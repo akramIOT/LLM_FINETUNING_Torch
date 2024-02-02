@@ -1,7 +1,7 @@
 ## FINE TUNING LLM's  and LLM  BASICS  COVERED IN THIS  PROJECT ####
 
 
-## Google Colab for those who don't have a GPU: https://colab.research.google.com/drive/1_7TNpEEl8xjHlr9JzKbK5AuDKXwAkHqj?usp=sharing
+## Google Colab can be used for those who don't have a GPU: 
 
 Dependencies (assuming windows): `pip install pylzma numpy ipykernel jupyter torch --index-url https://download.pytorch.org/whl/cu118`
 
